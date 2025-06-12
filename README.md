@@ -1,5 +1,4 @@
-# yulu-demand-analysis
-Statistical and EDA case study on Yulu bike rentals using Python.
+
 # Yulu Demand Forecasting – Statistical Case Study
 
 This project analyzes electric bike rental data from Yulu to identify demand trends based on season, weather, and time using Python and statistical methods.
