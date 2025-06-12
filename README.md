@@ -16,7 +16,7 @@ Python, Pandas, Seaborn, Matplotlib, SciPy, Statistics
 📘 `Yulu_Case_Study.ipynb`
 
 ## Dataset
-Original dataset not included due to source terms. You can find similar data at: [Link to public dataset]
+Original dataset not included due to source terms.
 
 ## Author
 [Srisailam Jeripothula](https://www.linkedin.com/in/srisailamjeripothula)
